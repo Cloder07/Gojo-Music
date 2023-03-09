@@ -1,0 +1,17 @@
+import os
+
+class Config(object):
+    API_ID = int() #dont change
+    API_HASH = "" #dont change 
+    BOT_TOKEN = "" #fill your telegram bot token
+    STRING_SESSION = "" #an Telethon Session 
+    MANAGEMENT_MODE = None #Dont change
+    HEROKU_MODE = None #dont change
+    BOT_USERNAME = "" #Your Bot username 
+    SUPPORT = "GojoSupportX" #optional
+    CHANNEL = "GojoSatoruXCh" #optional
+    START_IMG = "https://telegra.ph/file/2941e609024ff6e3ee51f.jpg"
+    CMD_IMG = "https://telegra.ph/file/2941e609024ff6e3ee51f.jpg"
+    ASSISTANT_ID = int() #your string added account user id..
+    AUTO_LEAVE_TIME = int(54000) # in seconds
+    AUTO_LEAVE = True #Optional
