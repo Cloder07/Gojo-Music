@@ -12,7 +12,7 @@ nvm install v18 #nodejs 18+
 git clone https://github.com/Cloder07/Gojo-Music # clone the repo.
 cd Gojo-Music
 pip3 install -U -r requirements.txt
-nano config.py #edit your vars separate by space
+nano Config.py #edit your vars separate by space
 #control+x then y to exit
 #screen -S Gojo-Music
 python3 -m Gojo # run the bot.
